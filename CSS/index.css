@@ -179,7 +179,7 @@ p {
 
 .product_img {
   height: 400px;
-  background-image: url(/images/image-product-mobile.jpg);
+  background-image: url(../images/image-product-mobile.jpg);
   background-position: center center;
   background-size: cover;
 }
@@ -190,7 +190,7 @@ p {
   }
   .product_img {
     height: auto;
-    background-image: url(/images/image-product-desktop.jpg);
+    background-image: url(../images/image-product-desktop.jpg);
   }
 }
 .product_content {
